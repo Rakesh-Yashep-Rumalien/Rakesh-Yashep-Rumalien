@@ -58,7 +58,7 @@ Java Developer with **1+ year of production experience** at Kvaliteta Systems an
 
 ## 📌 Featured Project
 
-### [Employee Management System]([https://github.com/rakeshyashep/employee-management-system](https://github.com/Rakesh-Yashep-Rumalien/Employee-Management-Project))
+### [Employee Management System](https://github.com/Rakesh-Yashep-Rumalien/Employee-Management-Project)
 > Full-stack HR platform built with **Java · Spring Boot · React · MySQL**
 
 - Role-based access for HR admins and employees
@@ -72,9 +72,9 @@ Java Developer with **1+ year of production experience** at Kvaliteta Systems an
 
 <div align="center">
 
-![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh-Yashep-Rumalien&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Rakesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh-Yashep-Rumalien&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-Yashep-Rumalien&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-Yashep-Rumalien&layout=compact&hide_border=true)
 
 </div>
 
